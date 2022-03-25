@@ -379,8 +379,6 @@ class MouseRace2 {
                 
         System.out.println("CPSC 21000");
         System.out.println("NAME: CAMERON KEEPERMAN");
-        System.out.println("NAME: ETHAN FOX");
-        System.out.println("NAME: FIDEL HERRERA");
         System.out.println("PROGRAMMING ASSIGNMENT 6\n");
 
         MouseRace2 mouse = new MouseRace2();
